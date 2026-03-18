@@ -28,9 +28,48 @@ O projeto busca contribuir para a formação de usuários mais conscientes sobre
 
 Este repositório pode reunir materiais como:
 
-- artigo científico do projeto
-- apresentações
-- manuais
-- protótipos das cartas
-- imagens e materiais gráficos
-- documentação do desenvolvimento do projeto
+- Artigo científico do projeto
+- Apresentações
+- Manuais
+- Protótipos das cartas
+- Imagens e materiais gráficos
+- Documentação do desenvolvimento do projeto
+
+## Metodologia
+
+O projeto utiliza uma proposta educativa baseada em recursos visuais, linguagem acessível e interação por meio de cartas e atividades, tornando o aprendizado mais leve e participativo.
+
+## Temas abordados
+
+Alguns dos temas trabalhados no projeto incluem:
+
+- Segurança da informação
+- Golpes virtuais
+- Phishing
+- Engenharia social
+- Senhas seguras
+- Privacidade digital
+- Comportamento seguro na internet
+
+## Ferramentas e recursos utilizados
+
+- Canva
+- Materiais gráficos
+- Documentação acadêmica
+- Pesquisa em cibersegurança
+- Metodologias educativas
+
+## Impactos esperados
+
+- Maior conscientização sobre segurança digital
+- Desenvolvimento de hábitos mais seguros no ambiente online
+- Facilitação do ensino de cibersegurança para o público jovem
+- Apoio a ações educativas e extensionistas
+
+## Autoria
+
+Projeto desenvolvido por Letícia Monteiro e equipe parceira.
+
+## Licença
+
+Este projeto possui finalidade acadêmica e educacional.
